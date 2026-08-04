@@ -41,7 +41,7 @@ No public systems are tested.
 Current Session:
 
 - ✅ Session 0 – Environment Preparation
-- ✅ Session 1 – Reconnaissance
+- ⬜ Session 1 – Reconnaissance
 - ⬜ Session 2 – Mapping the Application
 - ⬜ Session 3 – Authentication Testing
 - ⬜ Session 4 – OWASP Top 10 Assessment
