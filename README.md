@@ -12,7 +12,7 @@ This repository contains assessment notes, methodology, and vulnerability report
 
 ## Current Setup
 
-- **OS:** Windows 10
+- **OS:** Windows 11
 - **Platform:** Docker Desktop
 - **Target:** OWASP Juice Shop
 
